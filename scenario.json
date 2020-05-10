@@ -1,0 +1,21 @@
+{
+  "done": {
+    "variables": {
+      "lives": {
+        "op": "zero"
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "lives": {
+	"penalty": 999999.0,
+        "reward": 6250.0
+      },
+      "score": {
+        "penalty": 15.0,
+        "reward": 10.0
+      }
+    }
+  }
+}
